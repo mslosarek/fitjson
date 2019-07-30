@@ -1,0 +1,22 @@
+{
+  "name": "fitjson",
+  "version": "0.0.1",
+  "description": "Convert .fit files in a directory to .json files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mslosarek/fitjson.git"
+  },
+  "author": "Mark Slosarek <mark@slosarek.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mslosarek/fitjson/issues"
+  },
+  "homepage": "https://github.com/mslosarek/fitjson#readme",
+  "dependencies": {
+    "fit-file-parser": "^1.6.8"
+  }
+}
